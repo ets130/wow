@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ets130/wow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ets130/wow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+大区 | 服务器名 | 类型 | 排队人数 | 排队人数 | 预估时间 
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+一区 | 寒脊山小径 | PVE | 低 | 0 | - 
+一区 | 碧玉矿洞 | PVE | 低 | 0 |  - 
+一区 | 萨弗拉斯 | PVP | 低 | 0 |  - 
+一区 | 辛迪加 | RPPVP | 低 | 0 |  - 
+一区 | 黑曜石之锋 | PVP | 低 | - 
+一区 | 希尔盖 | PVP | 中 | 1732 | - 
+一区 | 毁灭之刃 | PVP | 中 | 6083 | - 
+一区 | 水晶之牙 | PVP | 中 | 9157 | - 
+一区 | 沙尔图拉 | PVP | 中 | 11697 | - 
+一区 | 维克洛尔 | PVP | 中 | 1070 | - 
+一区 | 莫格莱尼 | PVP | 中 | 13085 | - 
+一区 | 诺格弗格 | PVP | 中 | 2336 | - 
+一区 | 哈霍兰 | PVP | 高 | 25668 | - 
+一区 | 奥罗 | PVP | 高 | 23476 | - 
+一区 | 霜语 | PVP | 高 | 21886 | - 
+五区 | 匕首岭 | PVE | 低 | 0 |  - 
+五区 | 巨龙追猎者 | PVP | 低 | 0 |  - 
+五区 | 无尽风暴 | PVP | 低 | 0 |  - 
+五区 | 木喉要塞 | RPPVE | 低 | 0 |  - 
+五区 | 审判 | PVP | 中 | 464 | - 
+五区 | 巴罗夫 | PVP | 中 | 4885 | - 
+五区 | 比斯巨兽 | PVP | 中 | 7828 | - 
+五区 | 狮心 | PVP | 中 | 7287 | - 
+五区 | 维克尼拉斯 | PVP | 中 | 1367 | - 
+五区 | 维希度斯 | PVP | 中 | 12736 | - 
+五区 | 觅心者 | PVP | 中 | 3383 | - 
+五区 | 布鲁 | PVP | 高 |  25045 | - 
+五区 | 帕奇维克 | PVP | 高 |  23431 | - 
+五区 | 比格沃斯 | PVP | 高 |  15187 | - 
+五区 | 范克瑞斯 | PVP | 高 |  27174 | - 
